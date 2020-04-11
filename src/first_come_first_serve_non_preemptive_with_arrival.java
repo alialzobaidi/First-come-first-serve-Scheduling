@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class first_come_first_serve_non_preemptive_with_arrival {
+//ALi alzobaidi  _ YouTube channel -> TheNewBabil
 
 	private static float sumwait, sumturn;
 	private static int n, CpuTime, ar[], br[], wait_time[], turn_time[];
@@ -81,3 +82,5 @@ public class first_come_first_serve_non_preemptive_with_arrival {
 			}
 	}
 }
+//ALi alzobaidi  _ YouTube channel -> TheNewBabil
+
